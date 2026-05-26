@@ -1,0 +1,23 @@
+/* Esto cambia el fondo de la página a gris oscuro y la letra a blanco */
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+/* Esto cambia el diseño de tus dos botones#1DB6CA */
+button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+/* Esto maquilla la línea de Wikipedia para que sea azul y delgada */
+hr {
+    border: 1px solid #007bff;
+}
